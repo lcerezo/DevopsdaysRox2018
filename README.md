@@ -1,5 +1,9 @@
 ## notes and learnings from devopsdays rockies
 
-notes and text files in parent.
+### hierarchy 
 
-put photos in `images/`
+## Add .md/.rst notes and text files in parent. (this dir)
+
+## put photos in `images/`
+
+## put other assets in `assets` (such as slidedecks)
