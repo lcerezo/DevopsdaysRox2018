@@ -1,0 +1,21 @@
+- Serverless is bullshit
+- Serverless movement is led by Ops
+- Kris Nova fell in love with Kubernetes
+- DevOps Life (Culture)
+- DevSecPOOps (https://www.youtube.com/watch?v=LdOe18KhtT4)
+- html5Zombo.com (you're welcome)
+- Ignite talks are awesome (part of weekly celebration?)
+- Presentation videos: https://www.youtube.com/channel/UC-FYMcyJr5KWD7SM4Qzs38A
+- Distributed teams having "office hours"
+- Potemkin Village (the Puppet presenter talk)
+- "Perfect is the enemy of good." <- "Good is the enemy of great."
+- "Developer Advocate" <- wtf did this become a thing?
+- "To optimize for the whole, you need to sub-optimize the parts." -Demming
+- Is Kubertenes right for me?
+- Daniel S. ate Elk. And spoke with Logz.io, who *do* elk
+- Public speaking
+- lastweekinaws.com (QuinnyPig is funny, btw)
+- Be grateful you're being recruited
+- Threat Modelling (TellSubway.com)
+- Generlized vs Specialized Tools - how to pick how to spend your time?
+- "Reliability is our most important feature."
